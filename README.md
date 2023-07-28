@@ -1,7 +1,5 @@
 # Welcome to David Gómez's GitHub Repository!
 
-![Profile Banner]
-
 ## About Me
 
 Hi there! 👋 I'm David Gómez, and I'm passionate about building awesome applications with TypeScript, Node.js, JavaScript, NestJS, and React Native. This GitHub repository is where I showcase my projects, experiments, and contributions to the development community.
